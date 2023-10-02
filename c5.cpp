@@ -1,3 +1,4 @@
+// Inline Function
 #include<iostream>
 using namespace std;
 inline int cube(int s)
